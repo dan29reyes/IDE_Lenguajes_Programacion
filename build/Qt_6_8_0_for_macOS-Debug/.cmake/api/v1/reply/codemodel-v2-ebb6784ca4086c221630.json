@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1d8bd4f2f8f76c811f1d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "filesystemexplorer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-bf8dcb967bdb1293cbc0.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-0d860d4ea6c80fe85839.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-92d3c875f2696fbb1f4c.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-4ebcdcb120cfa3b651c0.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-eee1097a042db18ce903.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "filesystemexplorer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-filesystemexplorer-Debug-10cfc881e7790564d631.json",
+					"name" : "filesystemexplorer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "filesystemexplorer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-filesystemexplorer_autogen-Debug-0a8b8268629138c9c5ac.json",
+					"name" : "filesystemexplorer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "filesystemexplorer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-filesystemexplorer_autogen_timestamp_deps-Debug-8cb524c6a1df7ef4db49.json",
+					"name" : "filesystemexplorer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "filesystemexplorer_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-filesystemexplorer_qmlimportscan-Debug-58f941973a49ce441178.json",
+					"name" : "filesystemexplorer_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "filesystemexplorer_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-filesystemexplorer_qmllint-Debug-369815bd79711456b3d1.json",
+					"name" : "filesystemexplorer_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "filesystemexplorer_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-filesystemexplorer_qmllint_json-Debug-8245f08fe8d77cd493c9.json",
+					"name" : "filesystemexplorer_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "filesystemexplorer_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-filesystemexplorer_qmllint_module-Debug-f4c15cea8ccd347e4778.json",
+					"name" : "filesystemexplorer_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "filesystemexplorer_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-filesystemexplorer_qmltyperegistration-Debug-0963723f86014ed08eb1.json",
+					"name" : "filesystemexplorer_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "filesystemexplorer_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-filesystemexplorer_tooling-Debug-fbe757e2de4022d1f503.json",
+					"name" : "filesystemexplorer_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_filesystemexplorer_aotstats_targets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_filesystemexplorer_aotstats_targets-Debug-054d8792d9cece4ee017.json",
+					"name" : "module_filesystemexplorer_aotstats_targets",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/build/Qt_6_8_0_for_macOS-Debug",
+		"source" : "/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

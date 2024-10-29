@@ -1,0 +1,2 @@
+/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/build/Qt_6_8_0_for_macOS-Debug/filesystemexplorer_autogen/include/../EWIEGA46WW/moc_filesystemmodel.cpp.json
+/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/build/Qt_6_8_0_for_macOS-Debug/filesystemexplorer_autogen/include/../EWIEGA46WW/moc_linenumbermodel.cpp.json

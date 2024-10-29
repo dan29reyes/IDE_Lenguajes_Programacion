@@ -1,0 +1,49 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "LineNumberModel",
+            "lineNumber": 10,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "lineCount",
+                    "notify": "lineCountChanged",
+                    "read": "lineCount",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setLineCount"
+                }
+            ],
+            "qualifiedClassName": "LineNumberModel",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "lineCountChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "linenumbermodel.h",
+    "outputRevision": 68
+}

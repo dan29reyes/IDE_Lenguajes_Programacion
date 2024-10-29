@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/FileSystemModule">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/build/Qt_6_8_0_for_macOS-Debug/FileSystemModule</file>
+
+  </qresource>
+</RCC>

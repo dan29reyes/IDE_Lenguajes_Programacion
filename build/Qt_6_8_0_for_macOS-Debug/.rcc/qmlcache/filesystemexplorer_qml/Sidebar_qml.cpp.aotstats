@@ -1,0 +1,172 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 761,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 201,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "",
+                        "functionName": "buttons",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "",
+                        "functionName": "onCheckedButtonChanged",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "",
+                        "functionName": "model",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "",
+                        "functionName": "topMargin",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "",
+                        "functionName": "bottomMargin",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type ApplicationWindow for binding on dragWindow.",
+                        "functionName": "dragWindow",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 131
+                    }
+                ],
+                "filepath": "/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/build/Qt_6_8_0_for_macOS-Debug/Sidebar.qml"
+            }
+        ],
+        "moduleId": "FileSystemModule(filesystemexplorer)"
+    }
+]

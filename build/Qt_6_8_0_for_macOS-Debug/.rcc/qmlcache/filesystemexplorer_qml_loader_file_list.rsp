@@ -1,0 +1,16 @@
+--resource
+/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/build/Qt_6_8_0_for_macOS-Debug/.qt/rcc/qmake_FileSystemModule.qrc
+--resource
+/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/build/Qt_6_8_0_for_macOS-Debug/.qt/rcc/filesystemexplorer_raw_qml_0.qrc
+--resource
+/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/build/Qt_6_8_0_for_macOS-Debug/.qt/rcc/filesystemexplorer_raw_qml_0_extra_qmldirs.qrc
+/qt/qml/FileSystemModule/Main.qml
+/qt/qml/FileSystemModule/qml/About.qml
+/qt/qml/FileSystemModule/qml/Colors.qml
+/qt/qml/FileSystemModule/qml/Editor.qml
+/qt/qml/FileSystemModule/qml/FileSystemView.qml
+/qt/qml/FileSystemModule/qml/MyMenu.qml
+/qt/qml/FileSystemModule/qml/MyMenuBar.qml
+/qt/qml/FileSystemModule/qml/Sidebar.qml
+/qt/qml/FileSystemModule/qml/ResizeButton.qml
+/qt/qml/FileSystemModule/qml/WindowDragHandler.qml

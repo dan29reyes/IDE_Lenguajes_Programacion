@@ -1,0 +1,14 @@
+module FileSystemModule
+typeinfo filesystemexplorer.qmltypes
+prefer :/qt/qml/FileSystemModule/
+Main 1.0 Main.qml
+About 1.0 qml/About.qml
+singleton Colors 1.0 qml/Colors.qml
+Editor 1.0 qml/Editor.qml
+FileSystemView 1.0 qml/FileSystemView.qml
+MyMenu 1.0 qml/MyMenu.qml
+MyMenuBar 1.0 qml/MyMenuBar.qml
+Sidebar 1.0 qml/Sidebar.qml
+ResizeButton 1.0 qml/ResizeButton.qml
+WindowDragHandler 1.0 qml/WindowDragHandler.qml
+

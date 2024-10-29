@@ -1,0 +1,60 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 84,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : ".",
+			"paths" : 
+			[
+				{
+					"from" : "filesystemexplorer.app",
+					"to" : "filesystemexplorer.app/Contents/MacOS/filesystemexplorer"
+				}
+			],
+			"targetId" : "filesystemexplorer::@6890427a1f51a3e7e1df",
+			"targetIndex" : 5,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"scriptFile" : "build/Qt_6_8_0_for_macOS-Debug/.qt/deploy_qml_app_filesystemexplorer_8f77ef0e69.cmake",
+			"type" : "script"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

@@ -1,0 +1,134 @@
+[
+    {
+        "classes": [
+            {
+                "classInfos": [
+                    {
+                        "name": "QML.Element",
+                        "value": "auto"
+                    },
+                    {
+                        "name": "QML.Singleton",
+                        "value": "true"
+                    }
+                ],
+                "className": "FileSystemModel",
+                "lineNumber": 10,
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "filePath",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 1,
+                        "name": "readFile",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "textDocument",
+                                "type": "QQuickTextDocument*"
+                            },
+                            {
+                                "name": "cursorPosition",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 2,
+                        "name": "currentLineNumber",
+                        "returnType": "int"
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "rootIndex",
+                        "notify": "rootIndexChanged",
+                        "read": "rootIndex",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QModelIndex",
+                        "user": false,
+                        "write": "setRootIndex"
+                    }
+                ],
+                "qualifiedClassName": "FileSystemModel",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "rootIndexChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QFileSystemModel"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "filesystemmodel.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "classInfos": [
+                    {
+                        "name": "QML.Element",
+                        "value": "auto"
+                    }
+                ],
+                "className": "LineNumberModel",
+                "lineNumber": 10,
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "lineCount",
+                        "notify": "lineCountChanged",
+                        "read": "lineCount",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false,
+                        "write": "setLineCount"
+                    }
+                ],
+                "qualifiedClassName": "LineNumberModel",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "lineCountChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QAbstractListModel"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "linenumbermodel.h",
+        "outputRevision": 68
+    }
+]

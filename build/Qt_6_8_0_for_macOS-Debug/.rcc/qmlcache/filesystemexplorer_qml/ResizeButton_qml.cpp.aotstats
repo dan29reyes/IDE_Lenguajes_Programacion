@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 14,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on display.",
+                        "functionName": "display",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on onPressed.",
+                        "functionName": "onPressed",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on color.",
+                        "functionName": "color",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on right.",
+                        "functionName": "right",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on bottom.",
+                        "functionName": "bottom",
+                        "line": 12
+                    }
+                ],
+                "filepath": "/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/build/Qt_6_8_0_for_macOS-Debug/ResizeButton.qml"
+            }
+        ],
+        "moduleId": "FileSystemModule(filesystemexplorer)"
+    }
+]

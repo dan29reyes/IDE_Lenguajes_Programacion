@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="/qt/qml/FileSystemModule/">
+    <file alias="Main.qml">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/Main.qml</file>
+    <file alias="qml/About.qml">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/qml/About.qml</file>
+    <file alias="qml/Colors.qml">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/qml/Colors.qml</file>
+    <file alias="qml/Editor.qml">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/qml/Editor.qml</file>
+    <file alias="qml/FileSystemView.qml">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/qml/FileSystemView.qml</file>
+    <file alias="qml/MyMenu.qml">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/qml/MyMenu.qml</file>
+    <file alias="qml/MyMenuBar.qml">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/qml/MyMenuBar.qml</file>
+    <file alias="qml/Sidebar.qml">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/qml/Sidebar.qml</file>
+    <file alias="qml/ResizeButton.qml">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/qml/ResizeButton.qml</file>
+    <file alias="qml/WindowDragHandler.qml">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/qml/WindowDragHandler.qml</file>
+    <file alias="icons/folder_closed.svg">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/icons/folder_closed.svg</file>
+    <file alias="icons/folder_open.svg">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/icons/folder_open.svg</file>
+    <file alias="icons/generic_file.svg">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/icons/generic_file.svg</file>
+    <file alias="icons/globe.svg">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/icons/globe.svg</file>
+    <file alias="icons/info_sign.svg">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/icons/info_sign.svg</file>
+    <file alias="icons/light_bulb.svg">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/icons/light_bulb.svg</file>
+    <file alias="icons/read.svg">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/icons/read.svg</file>
+    <file alias="icons/resize.svg">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/icons/resize.svg</file>
+    <file alias="icons/qt_logo.svg">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/icons/qt_logo.svg</file>
+    <file alias="icons/app_icon.svg">/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/icons/app_icon.svg</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,340 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 1002,
+                        "errorMessage": "",
+                        "functionName": "rowHeight",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 19801,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: textArea",
+                        "functionName": "onWidthChanged",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 607,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: textArea",
+                        "functionName": "onHeightChanged",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 136,
+                        "errorMessage": "",
+                        "functionName": "contentY",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: textArea",
+                        "functionName": "visible",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: textArea",
+                        "functionName": "preferredWidth",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: textArea",
+                        "functionName": "lineCount",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on text.",
+                        "functionName": "text",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on width.",
+                        "functionName": "width",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on height.",
+                        "functionName": "height",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on horizontalAlignment.",
+                        "functionName": "horizontalAlignment",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on verticalAlignment.",
+                        "functionName": "verticalAlignment",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on color.",
+                        "functionName": "color",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on font.",
+                        "functionName": "font",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 12,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: numbers",
+                        "functionName": "left",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "",
+                        "functionName": "boundsBehavior",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 15,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: scrollBar",
+                        "functionName": "implicitWidth",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 11,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: scrollBar",
+                        "functionName": "implicitHeight",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 11,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: scrollBar",
+                        "functionName": "opacity",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 11,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: scrollBar",
+                        "functionName": "implicitWidth",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 9,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: scrollBar",
+                        "functionName": "implicitHeight",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 11,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: scrollBar",
+                        "functionName": "opacity",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on text.",
+                        "functionName": "text",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on tabStopDistance.",
+                        "functionName": "tabStopDistance",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on onCursorPositionChanged.",
+                        "functionName": "onCursorPositionChanged",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on color.",
+                        "functionName": "color",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on selectedTextColor.",
+                        "functionName": "selectedTextColor",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on selectionColor.",
+                        "functionName": "selectionColor",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on textFormat.",
+                        "functionName": "textFormat",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on renderType.",
+                        "functionName": "renderType",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on fill.",
+                        "functionName": "fill",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 12,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: textArea",
+                        "functionName": "font",
+                        "line": 157
+                    }
+                ],
+                "filepath": "/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/build/Qt_6_8_0_for_macOS-Debug/Editor.qml"
+            }
+        ],
+        "moduleId": "FileSystemModule(filesystemexplorer)"
+    }
+]

@@ -1,0 +1,365 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"/Users/dan29reyes/Qt/6.8.0/macos/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 30,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 1148,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 891,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 3201,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 3205,
+				"parent" : 3
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "filesystemexplorer_tooling::@6890427a1f51a3e7e1df",
+	"name" : "filesystemexplorer_tooling",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/Main.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/About.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/Colors.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/Editor.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/FileSystemView.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/MyMenu.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/MyMenuBar.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/Sidebar.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/ResizeButton.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/WindowDragHandler.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/folder_closed.svg",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/folder_open.svg",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/generic_file.svg",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/globe.svg",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/info_sign.svg",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/light_bulb.svg",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/read.svg",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/resize.svg",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/qt_logo.svg",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/app_icon.svg",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/Main.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/About.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/Colors.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/Editor.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/FileSystemView.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/MyMenu.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/MyMenuBar.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/Sidebar.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/ResizeButton.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/qml/WindowDragHandler.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/folder_closed.svg.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/folder_open.svg.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/generic_file.svg.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/globe.svg.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/info_sign.svg.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/light_bulb.svg.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/read.svg.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/resize.svg.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/qt_logo.svg.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_0_for_macOS-Debug/FileSystemModule/icons/app_icon.svg.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "INTERFACE_LIBRARY"
+}

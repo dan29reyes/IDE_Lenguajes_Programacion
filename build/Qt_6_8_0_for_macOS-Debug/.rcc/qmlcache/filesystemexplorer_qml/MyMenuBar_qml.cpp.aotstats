@@ -1,0 +1,372 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 137,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "",
+                        "functionName": "font",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "",
+                        "functionName": "elide",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 816,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "",
+                        "functionName": "opacity",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 205,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "",
+                        "functionName": "when",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "",
+                        "functionName": "model",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 46,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "",
+                        "functionName": "leftPadding",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 220,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 40,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "",
+                        "functionName": "onTapped",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 271,
+                        "errorMessage": "",
+                        "functionName": "onAction",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot load property hovered from (component in /Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/build/Qt_6_8_0_for_macOS-Debug/MyMenuBar.qml)::parent with type QQuickItem.",
+                        "functionName": "color",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "",
+                        "functionName": "onAction",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot load property hovered from (component in /Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/build/Qt_6_8_0_for_macOS-Debug/MyMenuBar.qml)::parent with type QQuickItem.",
+                        "functionName": "color",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 225,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "",
+                        "functionName": "onAction",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "",
+                        "functionName": "transformOrigin",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot load property hovered from (component in /Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/build/Qt_6_8_0_for_macOS-Debug/MyMenuBar.qml)::parent with type QQuickItem.",
+                        "functionName": "color",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot load property color from (component in /Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/build/Qt_6_8_0_for_macOS-Debug/MyMenuBar.qml)::parent with type QQuickItem.",
+                        "functionName": "color",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 158
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type ApplicationWindow for binding on dragWindow.",
+                        "functionName": "dragWindow",
+                        "line": 174
+                    }
+                ],
+                "filepath": "/Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/build/Qt_6_8_0_for_macOS-Debug/MyMenuBar.qml"
+            }
+        ],
+        "moduleId": "FileSystemModule(filesystemexplorer)"
+    }
+]

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_filesystemexplorer_FILE /Users/dan29reyes/Qt/Examples/Qt-6.8.0/quickcontrols/filesystemexplorer/build/Qt_6_8_0_for_macOS-Debug/filesystemexplorer.app/Contents/MacOS/filesystemexplorer)
+set(__QT_DEPLOY_TARGET_filesystemexplorer_TYPE EXECUTABLE)
